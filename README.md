@@ -1,15 +1,6 @@
-# Referral Network System
+# RefNet-Engine - A Referral Network System
 
 A comprehensive referral network implementation featuring graph-based data structures, advanced network analysis algorithms, and business growth simulation with optimization capabilities.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [System Architecture](#system-architecture)
-- [Project Structure](#project-structure)
-- [Implementation Details](#implementation-details)
-- [Algorithm Analysis](#algorithm-analysis)
-- [Testing Strategy](#testing-strategy)
 
 ## Overview
 
@@ -87,7 +78,6 @@ User Input ──► ReferralNetwork.addReferral() ──► Constraint Validati
 ### File Organization
 
 ```
-mercor-challenge/
 │
 ├── src/                          # Source code directory
 │   ├── models/                   # Core data structures
