@@ -21,7 +21,6 @@ This project implements a complete referral network system that handles:
 
 ### High-Level Architecture Diagram
 
-```
 ┌─────────────────────────────────────────────────────────────┐
 │                    Referral Network System                  │
 ├─────────────────────────────────────────────────────────────┤
